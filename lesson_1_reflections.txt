@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I could quickly find the differences to examine them individually for error.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can trace when errors started to occur and link them to changes.  I can
+    also refer back to and retreived possibly unused code.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    With manual commits, I have defined points I can refer to but might miss 
+    something without the continuity of Google's method.  I prefer manual 
+    references points that correspond to logical waypoints in my development
+    that I can remember easier and refer to.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I don't know very much yet, but I assume Git documents often have multiple 
+    internal references so all documents work together and thus may be changed
+    together and thus must be saved together.  This seems a little less likely
+    with the tasks of a typical Google Doc user...
+
+How can you use the commands git log and git diff to view the history of files?
+
+    By viewing the log and then comparing historical code versions to look for
+    changes relevant to my current task.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If I can always revert to a known solution, there is little risk in trying
+    out a new idea, even if it won't work.  I don't even have to waste time
+    undoing my trial work; I simply revert to the last knowing working version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Tracking an android app code project :)
