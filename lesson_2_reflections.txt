@@ -1,0 +1,18 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Upon initialization, Git initializes and begins to track changes to files in the tracked directory.  Initialization is required in order to properly tell Git which files and folder you want it to track for you.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area allows you to specify onle desired files and folders to be committed.  This allows you to be selective.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can check differences before committing.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches could help as you develop parallel program features to both track and to visualize logical change timelines.  It can also help to keep a master 'unbroken' copy for reference but to try out experimental features on the side.  There is further potential with collaboration.
