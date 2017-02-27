@@ -11,3 +11,8 @@ If someone else is in the middle of working on the same files, a forced auto upd
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are for clones on GitHub, especially useful for copying someone else's code base for you to build from.  Clones are also copies, but can be local to your machine.  Branches let you explore new ideas without the possibility of breaking your master working copy.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You could compare your work to the most up to date copy.
